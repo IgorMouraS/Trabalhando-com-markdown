@@ -18,7 +18,7 @@ Como deixar em **negrito**
 </p>
 
 # Adicionando Índice
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Título e Imagem de capa](linha 3)
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)

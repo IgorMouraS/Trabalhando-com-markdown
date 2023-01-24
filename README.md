@@ -6,3 +6,4 @@ Como deixar em **negrito**
 
 <h1 align="center">Como colocar texto centralizado</h1>
 
+![adicionando fotos](https://user-images.githubusercontent.com/90483859/214435815-b9bbbcbc-c3b8-45b1-bca6-7a2754a1ddb9.jpg)

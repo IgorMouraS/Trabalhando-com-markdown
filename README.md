@@ -10,5 +10,9 @@ Como deixar em **negrito**
 
 ![adicionando badges com SHIELDS IO](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-<COLOR>GREEN)
 <p align="center">
-<img href="Centralizando badges" scr="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-<COLOR>GREEN">
+<img href="Centralizando badges" src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-<COLOR>GREEN"/>
+</p>
+
+<p align="right">
+<img href="margem a direita badges" src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-<COLOR>GREEN"/>
 </p>
